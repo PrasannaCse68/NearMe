@@ -26,7 +26,7 @@ Execute the programs and publish them.
 
 ## CODE
 ### kos.html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -50,9 +50,9 @@ Execute the programs and publish them.
 </body>
 </center>
 </html>
-
+```
 ### theatre.html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -72,9 +72,9 @@ Execute the programs and publish them.
 </body>
 </html>
 
-
+```
 ### clinic.html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -93,9 +93,9 @@ Execute the programs and publish them.
 <h3>3.Town General Hospital stands as a pillar of healthcare excellence
 </body>
 </html>
-
+```
 ### lake.html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -114,9 +114,9 @@ Execute the programs and publish them.
 <h3>3.Adjacent to the Suriya Lake stands the iconic MC Theatre, a belove
 </body>
 </html>
-
+```
 ### bus.html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -135,7 +135,7 @@ Execute the programs and publish them.
 <h3>3.It's a place where locals gather, vendors sell their goods, and t
 </body>
 </html>
-
+```
 ### home.html
 ```
 <!DOCTYPE html>
@@ -155,7 +155,7 @@ Execute the programs and publish them.
 <h3>2.Nestled within the vibrant community of Arani, my home stands as a
 </body>
 </html>
-
+```
 
 ## OUTPUT:
 
